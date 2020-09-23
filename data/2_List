@@ -1,0 +1,15 @@
+# https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
+
+# 리스트는 변형가능
+
+Cat_type = ["korean_shorthair","persian", "scottish_flod", "russian_blue"]
+# 리스트 작성
+
+print("persian" in Cat_type)
+# x in a => 리스트 안에 요소가 있는지 찾기 
+
+print(Cat_type[2])
+# 0 -> 1 -> 2 번째 리스트 값
+
+print(len(Cat_type))
+# 리스트 길이 구하기

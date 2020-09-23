@@ -1,0 +1,31 @@
+#튜플은 변형불가
+
+Meow = ("meow", "nyaong", "maow")
+# 튜플 코딩
+print(Meow)
+
+
+#----------------------------------
+
+# name = "Sujung"
+# age = 7
+# cat = True
+# fav_things = ["bap", "fish"]
+
+# key => value ... 
+
+my_Cat = {
+   "name": "Sujung",
+   "age": 7,
+   "cat": True,
+   "fav_things": ["bap", "Thur(츄르)"]
+}
+# dictionary 작성
+
+print(my_Cat)
+print(my_Cat["name"])
+# dic에서 불러오기 
+
+my_Cat["cute"] = True
+print(my_Cat)
+# dic에 추가

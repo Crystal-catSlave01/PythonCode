@@ -1,0 +1,9 @@
+my_string = "Sujung"
+my_number = 1
+my_float = 1.23
+my_boolean = True
+my_none = None
+# 파이썬 자료형 (데이터형)
+
+print(type(my_boolean))
+# 자료형 확인 방법 type(?)
